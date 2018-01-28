@@ -1,2 +1,2 @@
-# ECS 154B LABS
+# ECS 154B LAB
 ##### by Shiqi Li and Melody Chang
