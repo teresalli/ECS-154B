@@ -1,0 +1,2070 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 23 0 R /MediaBox [ 0 0 612 792 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Contents 24 0 R /MediaBox [ 0 0 612 792 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 25 0 R /MediaBox [ 0 0 612 792 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Contents 26 0 R /MediaBox [ 0 0 612 792 ] /Parent 22 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Outlines 12 0 R /PageLabels 27 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog
+>>
+endobj
+11 0 obj
+<<
+/Author () /CreationDate (D:20180312231852+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180312231852+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+12 0 obj
+<<
+/Count 9 /First 13 0 R /Last 21 0 R /Type /Outlines
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 655.1339 0 ] /Next 14 0 R /Parent 12 0 R /Title (Objectives)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 580.1339 0 ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (Description)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 445.1339 0 ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (Details)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 715.1339 0 ] /Next 17 0 R /Parent 12 0 R /Prev 15 0 R /Title (Forwarding)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 544.1339 0 ] /Next 18 0 R /Parent 12 0 R /Prev 16 0 R /Title (Hazards)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 535.1339 0 ] /Next 19 0 R /Parent 12 0 R /Prev 17 0 R /Title (Branch Prediction)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 376.1339 0 ] /Next 20 0 R /Parent 12 0 R /Prev 18 0 R /Title (Grading)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 643.1339 0 ] /Next 21 0 R /Parent 12 0 R /Prev 19 0 R /Title (Submission)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 424.1339 0 ] /Parent 12 0 R /Prev 20 0 R /Title (Hints)
+>>
+endobj
+22 0 obj
+<<
+/Count 4 /Kids [ 5 0 R 7 0 R 8 0 R 9 0 R ] /Type /Pages
+>>
+endobj
+23 0 obj
+<<
+/Length 9202
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 703.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (ECS 154B Lab 3, Winter 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Due by 9:00 AM on Feb 26, 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 667.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Via Canvas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 634.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 622.1339 cm
+Q
+q
+1 0 0 1 62.69291 622.1339 cm
+Q
+q
+1 0 0 1 62.69291 610.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Build and test a pipelined MIPS CPU that implements a subset of the MIPS instruction set.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 604.1339 cm
+Q
+q
+1 0 0 1 62.69291 592.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Handle hazards through forwarding and stalling.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 592.1339 cm
+Q
+q
+1 0 0 1 62.69291 559.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 517.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.181209 Tw (In this lab, you will use Logisim to design and test a pipelined MIPS CPU that implements a subset of the) Tj T* 0 Tw .082598 Tw (MIPS instruction set, along with data hazard resolution. Make sure to use the given circuit for this assignment,) Tj T* 0 Tw (as the Register File included implements internal forwarding, while previous versions do not.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 487.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.251727 Tw (Remember that you are implementing MIPS instructions, and therefore should base your structures on the) Tj T* 0 Tw (MIPS architecture definitions, unless otherwise stated in this assignment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 457.1339 cm
+q
+BT 1 0 0 1 0 14 Tm 3.586945 Tw 12 TL /F1 10 Tf 0 0 0 rg (** ) Tj /F2 10 Tf (DO NOT CHANGE THE GIVEN SUBCIRCUITS IN ANY WAY. DOING SO WILL LEAD TO AN) Tj T* 0 Tw (AUTOMATIC ZERO.) Tj /F1 10 Tf ( **) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 424.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 406.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your CPU must implement all instructions from Lab 2, and a few more:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 400.1339 cm
+Q
+q
+1 0 0 1 62.69291 400.1339 cm
+Q
+q
+1 0 0 1 62.69291 388.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Data instructions: ) Tj /F3 10 Tf 0 0 0 rg (ADD,) Tj ( ) Tj (ADDI,) Tj ( ) Tj (AND,) Tj ( ) Tj (ANDI,) Tj ( ) Tj (OR,) Tj ( ) Tj (ORI,) Tj ( ) Tj (SLL,) Tj ( ) Tj (SLT,) Tj ( ) Tj (SRL,) Tj ( ) Tj (SUB,) Tj ( ) Tj (XOR) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 382.1339 cm
+Q
+q
+1 0 0 1 62.69291 370.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Memory access instructions: ) Tj /F3 10 Tf 0 0 0 rg (LW,) Tj ( ) Tj (SW) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 364.1339 cm
+Q
+q
+1 0 0 1 62.69291 352.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Control flow instructions: ) Tj /F3 10 Tf 0 0 0 rg (BEQ,) Tj ( ) Tj (J,) Tj ( ) Tj (JAL,) Tj ( ) Tj (JR) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 352.1339 cm
+Q
+q
+1 0 0 1 62.69291 334.1339 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (SLL) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (SRL) Tj /F1 10 Tf 0 0 0 rg ( are new instructions you need to implement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 316.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The control signals for the ALU are mostly identical to Lab 2, and are reposted here:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 310.1339 cm
+Q
+q
+1 0 0 1 62.69291 148.1339 cm
+1 1 1 rg
+n 0 162 486.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 144 486.6142 -18 re f*
+1 1 1 rg
+n 0 126 486.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 486.6142 -18 re f*
+1 1 1 rg
+n 0 90 486.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 486.6142 -18 re f*
+1 1 1 rg
+n 0 54 486.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 486.6142 -18 re f*
+1 1 1 rg
+n 0 18 486.6142 -18 re f*
+.960784 .960784 .862745 rg
+n 0 162 486.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 147 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 95.05512 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 25.57256 0 Td (Operation) Tj T* -25.57256 0 Td ET
+Q
+Q
+q
+1 0 0 1 113.0551 147 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 114.5197 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 37.53984 0 Td (ALUCtl2) Tj T* -37.53984 0 Td ET
+Q
+Q
+q
+1 0 0 1 239.5748 147 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 114.5197 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 37.53984 0 Td (ALUCtl1) Tj T* -37.53984 0 Td ET
+Q
+Q
+q
+1 0 0 1 366.0945 147 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 114.5197 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 37.53984 0 Td (ALUCtl0) Tj T* -37.53984 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (AND) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (ADD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (OR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (SUB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (SLT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (XOR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (SRL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (SLL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 113.0551 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.5748 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.0945 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 144 m 486.6142 144 l S
+n 0 126 m 486.6142 126 l S
+n 0 108 m 486.6142 108 l S
+n 0 90 m 486.6142 90 l S
+n 0 72 m 486.6142 72 l S
+n 0 54 m 486.6142 54 l S
+n 0 36 m 486.6142 36 l S
+n 0 18 m 486.6142 18 l S
+n 107.0551 0 m 107.0551 162 l S
+n 233.5748 0 m 233.5748 162 l S
+n 360.0945 0 m 360.0945 162 l S
+n 0 162 m 486.6142 162 l S
+n 0 0 m 486.6142 0 l S
+n 0 0 m 0 162 l S
+n 486.6142 0 m 486.6142 162 l S
+Q
+Q
+q
+1 0 0 1 62.69291 148.1339 cm
+Q
+q
+1 0 0 1 62.69291 106.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.156343 Tw (Your CPU should not have any branch delay slots, and should use a branch not taken strategy for branch) Tj T* 0 Tw .352945 Tw (prediction. You may implement your control signals using any method you prefer. You can use combinational) Tj T* 0 Tw (logic, microcode, or a combination of the two.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+24 0 obj
+<<
+/Length 11455
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 694.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Forwarding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 652.1339 cm
+q
+BT 1 0 0 1 0 26 Tm .616012 Tw 12 TL /F1 10 Tf 0 0 0 rg (The 5th edition of ) Tj /F4 10 Tf (Computer Organization and Design: The Hardware/Software Interface) Tj /F1 10 Tf ( contains an error in) Tj T* 0 Tw .24877 Tw (the forwarding logic, as do the previous editions of the book. On page 311 of the 5th edition, the last blue line) Tj T* 0 Tw (of the first piece of pseudocode should read:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.1339 cm
+Q
+q
+1 0 0 1 62.69291 634.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (and) Tj ( ) Tj (\(EX/MEM.RegisterRd) Tj ( ) Tj (=) Tj ( ) Tj (ID/EX.RegisterRs\)\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 634.1339 cm
+Q
+q
+1 0 0 1 62.69291 616.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Similarly, the last blue line of the second piece of pseudocode should read:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 610.1339 cm
+Q
+q
+1 0 0 1 62.69291 598.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (and) Tj ( ) Tj (\(EX/MEM.RegisterRd) Tj ( ) Tj (=) Tj ( ) Tj (ID/EX.RegisterRt\)\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 598.1339 cm
+Q
+q
+1 0 0 1 62.69291 556.1339 cm
+q
+BT 1 0 0 1 0 26 Tm .938294 Tw 12 TL /F1 10 Tf 0 0 0 rg (The parts in blue are actually just the EX hazards from page 308, so the blue portion of the first hazard on) Tj T* 0 Tw .36801 Tw (page 311 can be replaced with ) Tj /F3 10 Tf 0 0 0 rg (and) Tj ( ) Tj (not\(ForwardA) Tj ( ) Tj (=) Tj ( ) Tj (10\)) Tj /F1 10 Tf 0 0 0 rg (, and the blue portion of the second hazard can) Tj T* 0 Tw (be replaced with ) Tj /F3 10 Tf 0 0 0 rg (and) Tj ( ) Tj (not\(ForwardB) Tj ( ) Tj (=) Tj ( ) Tj (10\)) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 523.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Hazards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 469.1339 cm
+q
+BT 1 0 0 1 0 38 Tm .834951 Tw 12 TL /F1 10 Tf 0 0 0 rg (As you have learned in lecture, pipelining a CPU introduces the possibilities of hazards. Your CPU must be) Tj T* 0 Tw -0.080931 Tw (able to handle ) Tj /F2 10 Tf (all possible) Tj /F1 10 Tf ( hazards. Your CPU must use forwarding where possible, and resort to stalling only) Tj T* 0 Tw .96554 Tw (where necessary. Below is a subset of the possible hazards you may encounter. This means that, while all) Tj T* 0 Tw (possible hazards may not be listed here, your CPU must still be able to handle all possible hazards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 463.1339 cm
+Q
+q
+1 0 0 1 62.69291 463.1339 cm
+Q
+q
+1 0 0 1 62.69291 367.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+q
+BT 1 0 0 1 0 26 Tm 1.157612 Tw 12 TL /F2 10 Tf 0 0 0 rg (Read After Write) Tj /F1 10 Tf ( \(RAW\) hazards. Your CPU must perform forwarding on both ALU inputs to prevent) Tj T* 0 Tw .968945 Tw (Read After Write hazards. Your CPU must handle the hazards in the following code segments without) Tj T* 0 Tw (stalling.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 -3 cm
+1 1 1 rg
+n 0 54 463.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 463.6142 -18 re f*
+1 1 1 rg
+n 0 18 463.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.771 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 237.8071 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356.8432 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($7,) Tj ( ) Tj ($4,) Tj ( ) Tj ($4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.771 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($8,) Tj ( ) Tj ($9,) Tj ( ) Tj ($10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 237.8071 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($8,) Tj ( ) Tj ($9,) Tj ( ) Tj ($10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356.8432 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($8,) Tj ( ) Tj (0\($4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.771 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($7,) Tj ( ) Tj ($4,) Tj ( ) Tj ($4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 237.8071 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($7,) Tj ( ) Tj ($4,) Tj ( ) Tj ($8) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 463.6142 36 l S
+n 0 18 m 463.6142 18 l S
+n 112.771 0 m 112.771 54 l S
+n 231.8071 0 m 231.8071 54 l S
+n 350.8432 0 m 350.8432 54 l S
+n 0 54 m 463.6142 54 l S
+n 0 0 m 463.6142 0 l S
+n 0 0 m 0 54 l S
+n 463.6142 0 m 463.6142 54 l S
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 361.1339 cm
+Q
+q
+1 0 0 1 62.69291 277.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+q
+BT 1 0 0 1 0 14 Tm .601727 Tw 12 TL /F2 10 Tf 0 0 0 rg (Load Use) Tj /F1 10 Tf ( hazards. Your CPU must handle load-use hazards through stalling and forwarding. You may) Tj T* 0 Tw (only stall when necessary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 -3 cm
+1 1 1 rg
+n 0 54 463.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 463.6142 -18 re f*
+1 1 1 rg
+n 0 18 463.6142 -18 re f*
+.960784 .960784 .862745 rg
+n 0 54 463.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 219.8071 12 re f*
+Q
+q
+BT 1 0 0 1 0 2 Tm 73.90354 0 Td 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($8,) Tj ( ) Tj (0\($4\)) Tj T* -73.90354 0 Td ET
+Q
+Q
+q
+1 0 0 1 237.8071 39 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 219.8071 12 re f*
+Q
+q
+BT 1 0 0 1 0 2 Tm 73.90354 0 Td 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($8,) Tj ( ) Tj (0\($4\)) Tj T* -73.90354 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($10,) Tj ( ) Tj ($9,) Tj ( ) Tj ($8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 237.8071 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 237.8071 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($10,) Tj ( ) Tj ($9,) Tj ( ) Tj ($8) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 463.6142 36 l S
+n 0 18 m 463.6142 18 l S
+n 231.8071 0 m 231.8071 54 l S
+n 0 54 m 463.6142 54 l S
+n 0 0 m 463.6142 0 l S
+n 0 0 m 0 54 l S
+n 463.6142 0 m 463.6142 54 l S
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 271.1339 cm
+Q
+q
+1 0 0 1 62.69291 205.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+q
+BT 1 0 0 1 0 14 Tm .105886 Tw 12 TL /F2 10 Tf 0 0 0 rg (Store Word) Tj /F1 10 Tf ( \() Tj /F3 10 Tf 0 0 0 rg (SW) Tj /F1 10 Tf 0 0 0 rg (\) hazards. Your CPU must handle all Read After Write hazards associated with ) Tj /F3 10 Tf 0 0 0 rg (SW) Tj /F1 10 Tf 0 0 0 rg ( using) Tj T* 0 Tw (forwarding. You may need to stall in certain cases, as well.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 -3 cm
+1 1 1 rg
+n 0 36 463.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 463.6142 -18 re f*
+.960784 .960784 .862745 rg
+n 0 36 463.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 147.867 12 re f*
+Q
+q
+BT 1 0 0 1 0 2 Tm 31.93348 0 Td 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* -31.93348 0 Td ET
+Q
+Q
+q
+1 0 0 1 165.867 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 139.8736 12 re f*
+Q
+q
+BT 1 0 0 1 0 2 Tm 33.9368 0 Td 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($4,) Tj ( ) Tj (0\($0\)) Tj T* -33.9368 0 Td ET
+Q
+Q
+q
+1 0 0 1 317.7406 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 139.8736 12 re f*
+Q
+q
+BT 1 0 0 1 0 2 Tm 33.9368 0 Td 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($4,) Tj ( ) Tj (0\($0\)) Tj T* -33.9368 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (SW) Tj ( ) Tj ($4,) Tj ( ) Tj (0\($4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 165.867 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (SW) Tj ( ) Tj ($4,) Tj ( ) Tj (10\($0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.7406 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (SW) Tj ( ) Tj ($5,) Tj ( ) Tj (10\($4\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 18 m 463.6142 18 l S
+n 159.867 0 m 159.867 36 l S
+n 311.7406 0 m 311.7406 36 l S
+n 0 36 m 463.6142 36 l S
+n 0 0 m 463.6142 0 l S
+n 0 0 m 0 36 l S
+n 463.6142 0 m 463.6142 36 l S
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 199.1339 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 107.2677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 107.2677 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Control Flow) Tj /F1 10 Tf ( hazards. Read After Write hazards can also occur with the ) Tj /F3 10 Tf 0 0 0 rg (BEQ) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (JR) Tj /F1 10 Tf 0 0 0 rg ( instructions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 89.26772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following hazards must be solved with forwarding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 83.26772 cm
+Q
+q
+1 0 0 1 23 17.26772 cm
+1 1 1 rg
+n 0 66 460.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 48 460.6142 -18 re f*
+1 1 1 rg
+n 0 30 460.6142 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5, $6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 117.8634 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5, $6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 229.7269 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($10,) Tj ( ) Tj (0\($0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 341.5903 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($10,) Tj ( ) Tj (0\($0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($8,) Tj ( ) Tj ($9, $10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 117.8634 33 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($8,) Tj ( ) Tj ($9, $10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 229.7269 33 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5, $6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 341.5903 33 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg (BEQ) Tj ( ) Tj ($0,) Tj ( ) Tj ($4,) Tj T* (BranchAddr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 117.8634 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (JR) Tj ( ) Tj ($4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 229.7269 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($8,) Tj ( ) Tj ($9, $10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 341.5903 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($8,) Tj ( ) Tj ($9,) Tj ( ) Tj ($10) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 460.6142 0 l S
+n 0 48 m 460.6142 48 l S
+n 0 30 m 460.6142 30 l S
+n 111.8634 0 m 111.8634 66 l S
+n 223.7269 0 m 223.7269 66 l S
+n 335.5903 0 m 335.5903 66 l S
+n 0 66 m 460.6142 66 l S
+n 0 0 m 0 66 l S
+n 460.6142 0 m 460.6142 66 l S
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+25 0 obj
+<<
+/Length 8562
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 547.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 155 Tm  T* ET
+q
+1 0 0 1 23 135 cm
+1 1 1 rg
+n 0 30 460.6142 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 229.7269 3 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg (BEQ) Tj ( ) Tj ($0,) Tj ( ) Tj ($10,) Tj T* (BranchAddr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 341.5903 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (JR) Tj ( ) Tj ($10) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 30 m 460.6142 30 l S
+n 111.8634 0 m 111.8634 30 l S
+n 223.7269 0 m 223.7269 30 l S
+n 335.5903 0 m 335.5903 30 l S
+n 0 0 m 0 30 l S
+n 460.6142 0 m 460.6142 30 l S
+n 0 0 m 460.6142 0 l S
+Q
+Q
+q
+1 0 0 1 23 135 cm
+Q
+q
+1 0 0 1 23 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following hazards should be resolved with stalls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 111 cm
+Q
+q
+1 0 0 1 23 57 cm
+1 1 1 rg
+n 0 54 463.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 463.6142 -18 re f*
+1 1 1 rg
+n 0 18 463.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.587 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 295.0062 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($10,) Tj ( ) Tj (0\($0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (BEQ) Tj ( ) Tj ($0,) Tj ( ) Tj ($4,) Tj ( ) Tj (BranchAddr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 174.587 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (JR) Tj ( ) Tj ($4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 295.0062 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 295.0062 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (BEQ) Tj ( ) Tj ($0,) Tj ( ) Tj ($10,) Tj ( ) Tj (BranchAddr) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 463.6142 36 l S
+n 0 18 m 463.6142 18 l S
+n 168.587 0 m 168.587 54 l S
+n 289.0062 0 m 289.0062 54 l S
+n 0 54 m 463.6142 54 l S
+n 0 0 m 463.6142 0 l S
+n 0 0 m 0 54 l S
+n 463.6142 0 m 463.6142 54 l S
+Q
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 -3 cm
+1 1 1 rg
+n 0 54 463.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 463.6142 -18 re f*
+1 1 1 rg
+n 0 18 463.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($10,) Tj ( ) Tj (0\($0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.3571 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($10,) Tj ( ) Tj (0\($0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.0749 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (LW) Tj ( ) Tj ($10,) Tj ( ) Tj (0\($0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($4,) Tj ( ) Tj ($5,) Tj ( ) Tj ($6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.3571 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (BEQ) Tj ( ) Tj ($0,) Tj ( ) Tj ($10,) Tj ( ) Tj (BranchAddr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.0749 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (JR) Tj ( ) Tj ($10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (JR) Tj ( ) Tj ($10) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 463.6142 36 l S
+n 0 18 m 463.6142 18 l S
+n 136.3571 0 m 136.3571 54 l S
+n 334.0749 0 m 334.0749 54 l S
+n 0 54 m 463.6142 54 l S
+n 0 0 m 463.6142 0 l S
+n 0 0 m 0 54 l S
+n 463.6142 0 m 463.6142 54 l S
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 547.1339 cm
+Q
+q
+1 0 0 1 62.69291 514.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Branch Prediction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 472.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.654209 Tw (In order to reduce the number of stall cycles in our CPU, we will be using a branch not taken prediction) Tj T* 0 Tw 1.251343 Tw (strategy. This means that, if a branch is taken, we will need to provide hardware to squash the incorrectly) Tj T* 0 Tw (predicted instructions. For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 466.1339 cm
+Q
+q
+1 0 0 1 62.69291 430.1339 cm
+1 1 1 rg
+n 0 36 486.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 486.6142 -18 re f*
+.960784 .960784 .862745 rg
+n 0 36 486.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 200.8937 12 re f*
+Q
+q
+BT 1 0 0 1 0 2 Tm 34.44685 0 Td 12 TL /F3 10 Tf 0 0 0 rg (BEQ) Tj ( ) Tj ($0,) Tj ( ) Tj ($0,) Tj ( ) Tj (BranchAddr) Tj T* -34.44685 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (ADD) Tj ( ) Tj ($1,) Tj ( ) Tj ($1,) Tj ( ) Tj ($1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 218.8937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This instruction must be squashed.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 18 m 486.6142 18 l S
+n 212.8937 0 m 212.8937 36 l S
+n 0 36 m 486.6142 36 l S
+n 0 0 m 486.6142 0 l S
+n 0 0 m 0 36 l S
+n 486.6142 0 m 486.6142 36 l S
+Q
+Q
+q
+1 0 0 1 62.69291 430.1339 cm
+Q
+q
+1 0 0 1 62.69291 388.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .83201 Tw (The number of instructions that must be squashed is dependent on where in the pipeline you evaluate your) Tj T* 0 Tw .468386 Tw (branch condition. Jump instructions can be viewed as branches that are always taken and therefore are able) Tj T* 0 Tw (to have their \223branch\224 conditions evaluated in the Decode stage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 355.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 337.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your implementation will be tested and graded as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 331.1339 cm
+Q
+q
+1 0 0 1 62.69291 85.13386 cm
+1 1 1 rg
+n 0 246 486.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 228 486.6142 -54 re f*
+1 1 1 rg
+n 0 174 486.6142 -78 re f*
+.878431 .878431 .878431 rg
+n 0 96 486.6142 -54 re f*
+1 1 1 rg
+n 0 42 486.6142 -42 re f*
+.960784 .960784 .862745 rg
+n 0 246 486.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 231 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 150.2047 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 61.48736 0 Td (Name) Tj T* -61.48736 0 Td ET
+Q
+Q
+q
+1 0 0 1 168.2047 231 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 150.2047 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 15.91736 0 Td (Percentage of Lab Grade) Tj T* -15.91736 0 Td ET
+Q
+Q
+q
+1 0 0 1 330.4094 231 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 150.2047 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 47.59736 0 Td (Description) Tj T* -47.59736 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (basic.mps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.2047 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4094 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (A basic test of your pipelined) Tj T* (CPU. No forwarding or stalling is) Tj T* (required. Contains no control flow) Tj T* (instructions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (forwarding.mps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.2047 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4094 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (A test of your forwarding logic. No) Tj T* (stalling is needed. Contains no) Tj T* (control flow instructions. This also) Tj T* (means that it does not test) Tj T* (forwarding to control flow) Tj T* (instructions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (final.mps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.2047 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (20%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4094 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Anything and everything possible.) Tj T* (Requires both forwarding,) Tj T* (stalling, and squashing. Contains) Tj T* (control flow instructions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Interactive Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168.2047 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (50%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 330.4094 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Ensuring that you understand the) Tj T* (lab and pipelining, and that your) Tj T* (partner did not do everything.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 228 m 486.6142 228 l S
+n 0 174 m 486.6142 174 l S
+n 0 96 m 486.6142 96 l S
+n 0 42 m 486.6142 42 l S
+n 162.2047 0 m 162.2047 246 l S
+n 324.4094 0 m 324.4094 246 l S
+n 0 246 m 486.6142 246 l S
+n 0 0 m 486.6142 0 l S
+n 0 0 m 0 246 l S
+n 486.6142 0 m 486.6142 246 l S
+Q
+Q
+q
+1 0 0 1 62.69291 85.13386 cm
+Q
+ 
+endstream
+endobj
+26 0 obj
+<<
+/Length 6272
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 655.1339 cm
+q
+BT 1 0 0 1 0 50 Tm .888294 Tw 12 TL /F1 10 Tf 0 0 0 rg (For each test file, the grader will look at the contents of your registers and memory to check if your CPU is) Tj T* 0 Tw .024278 Tw (performing correctly. We will also examine your circuit to ensure that you correctly implement your instructions) Tj T* 0 Tw -0.085989 Tw (as defined by the MIPS architecture and this assignment. Partial credit is at the grader\222s discretion. ) Tj /F2 10 Tf (basic.mps) Tj /F1 10 Tf  T* 0 Tw 1.259657 Tw (and ) Tj /F2 10 Tf (forwarding.mps) Tj /F1 10 Tf ( do not have any infinite loops to terminate themselves with, so you will have to step) Tj T* 0 Tw (through those programs manually.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 622.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 592.1339 cm
+q
+BT 1 0 0 1 0 14 Tm .084951 Tw 12 TL /F2 10 Tf 0 0 0 rg (Warning) Tj /F1 10 Tf (: read the submission instructions carefully. Failure to adhere to the instructions will result in a loss of) Tj T* 0 Tw (points.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 586.1339 cm
+Q
+q
+1 0 0 1 62.69291 586.1339 cm
+Q
+q
+1 0 0 1 62.69291 502.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Upload to Canvas the zip/tar/tgz of your .circ file along with a README file that contains:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The names of you and your partner.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Any difficulties you had.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anything that doesn\222t work correctly and why.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anything you feel that the graders should know.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 496.1339 cm
+Q
+q
+1 0 0 1 62.69291 472.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm -0.061055 Tw 12 TL /F2 10 Tf 0 0 0 rg (Copy and paste the README into the comment box when you are submitting your assignment) Tj /F1 10 Tf (, as) Tj T* 0 Tw (well.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 466.1339 cm
+Q
+q
+1 0 0 1 62.69291 454.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Only one partner should submit the assignment.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 448.1339 cm
+Q
+q
+1 0 0 1 62.69291 436.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You may submit your assignment as many times as you want.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 436.1339 cm
+Q
+q
+1 0 0 1 62.69291 403.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Hints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 391.1339 cm
+Q
+q
+1 0 0 1 62.69291 391.1339 cm
+Q
+q
+1 0 0 1 62.69291 355.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.112709 Tw (The pipelined CPU diagram in the book should be used as a guide, and not a goal. It does not show) Tj T* 0 Tw .121272 Tw (everything you need to do to implement all of the instructions. Also, it is very possible to improve on their) Tj T* 0 Tw (design.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 349.1339 cm
+Q
+q
+1 0 0 1 62.69291 301.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .120746 Tw (Build, test, and debug in parts. Build a basic pipelined CPU first. After confirming that it works, add in the) Tj T* 0 Tw .127454 Tw (forwarding logic and test again. Finally, add in the logic to stall and squash instructions. By doing work in) Tj T* 0 Tw .872136 Tw (parts, you minimize the amount of time spent debugging, and maximize the amount of points gained if) Tj T* 0 Tw (you do not finish.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 295.1339 cm
+Q
+q
+1 0 0 1 62.69291 271.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.899069 Tw (After finishing a portion of the lab, save that implementation as a separate circuit so that you have) Tj T* 0 Tw (something to go back to in case you need to restart.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 265.1339 cm
+Q
+q
+1 0 0 1 62.69291 241.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.226009 Tw (Using git may prove useful for this job of keeping history in case you need go back. In that case) Tj T* 0 Tw (however, make sure you commit at reasonable times with reasonable messages :\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 241.1339 cm
+Q
+ 
+endstream
+endobj
+27 0 obj
+<<
+/Nums [ 0 28 0 R 1 29 0 R 2 30 0 R 3 31 0 R ]
+>>
+endobj
+28 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+29 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+30 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+31 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+xref
+0 32
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000458 00000 n 
+0000000653 00000 n 
+0000000768 00000 n 
+0000000963 00000 n 
+0000001158 00000 n 
+0000001353 00000 n 
+0000001459 00000 n 
+0000001717 00000 n 
+0000001791 00000 n 
+0000001902 00000 n 
+0000002027 00000 n 
+0000002148 00000 n 
+0000002272 00000 n 
+0000002393 00000 n 
+0000002524 00000 n 
+0000002645 00000 n 
+0000002769 00000 n 
+0000002875 00000 n 
+0000002953 00000 n 
+0000012207 00000 n 
+0000023715 00000 n 
+0000032329 00000 n 
+0000038653 00000 n 
+0000038721 00000 n 
+0000038755 00000 n 
+0000038789 00000 n 
+0000038823 00000 n 
+trailer
+<<
+/ID 
+[<5385856a582593785b20fa07a3e6345b><5385856a582593785b20fa07a3e6345b>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 11 0 R
+/Root 10 0 R
+/Size 32
+>>
+startxref
+38857
+%%EOF
