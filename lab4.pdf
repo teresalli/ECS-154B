@@ -1,0 +1,1689 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R /F5 8 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/jlpteaching/ECS154B/)
+>> /Border [ 0 0 0 ] /Rect [ 204.8274 256.1339 234.2874 268.1339 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 5 0 R ] /Contents 32 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 33 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 34 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 35 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Contents 36 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Outlines 15 0 R /PageLabels 37 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
+>>
+endobj
+14 0 obj
+<<
+/Author (Jason Lowe-Power) /CreationDate (D:20180312231205+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180312231205+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+15 0 obj
+<<
+/Count 17 /First 16 0 R /Last 30 0 R /Type /Outlines
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 634.1339 0 ] /Next 17 0 R /Parent 15 0 R /Title (Objectives)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 559.1339 0 ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (Description)
+>>
+endobj
+18 0 obj
+<<
+/Count 9 /Dest [ 7 0 R /XYZ 62.69291 202.1339 0 ] /First 19 0 R /Last 27 0 R /Next 28 0 R /Parent 15 0 R 
+  /Prev 17 0 R /Title (Details)
+>>
+endobj
+19 0 obj
+<<
+/Count 6 /Dest [ 7 0 R /XYZ 62.69291 169.1339 0 ] /First 20 0 R /Last 25 0 R /Next 26 0 R /Parent 18 0 R 
+  /Title (Given Code)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 715.1339 0 ] /Next 21 0 R /Parent 19 0 R /Title (Processor)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 586.1339 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Cache)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 199.1339 0 ] /Next 23 0 R /Parent 19 0 R /Prev 21 0 R /Title (Memory)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 130.1339 0 ] /Next 24 0 R /Parent 19 0 R /Prev 22 0 R /Title (TickedObject)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 715.1339 0 ] /Next 25 0 R /Parent 19 0 R /Prev 23 0 R /Title (DirectMappedCache)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 646.1339 0 ] /Parent 19 0 R /Prev 24 0 R /Title (TagArray and SRAMArray)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 475.1339 0 ] /Next 27 0 R /Parent 18 0 R /Prev 19 0 R /Title (Implementing a Set-Associative Cache)
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 187.1339 0 ] /Parent 18 0 R /Prev 26 0 R /Title (Implementing a Non-Blocking Cache)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 631.1339 0 ] /Next 29 0 R /Parent 15 0 R /Prev 18 0 R /Title (Testing and Grading)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 250.1339 0 ] /Next 30 0 R /Parent 15 0 R /Prev 28 0 R /Title (Submission)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 643.1339 0 ] /Parent 15 0 R /Prev 29 0 R /Title (Hints)
+>>
+endobj
+31 0 obj
+<<
+/Count 5 /Kids [ 7 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Type /Pages
+>>
+endobj
+32 0 obj
+<<
+/Length 6790
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 700.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Jason Lowe-Power) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 682.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (ECS 154B Lab 4, Winter 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 664.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Due by 9:00 AM on Mar 12, 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Via Canvas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 613.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.1339 cm
+Q
+q
+1 0 0 1 62.69291 601.1339 cm
+Q
+q
+1 0 0 1 62.69291 589.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Build a controller for a set-associative and non-blocking cache.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 583.1339 cm
+Q
+q
+1 0 0 1 62.69291 571.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Analyze the performance of different cache designs with a simulator.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 571.1339 cm
+Q
+q
+1 0 0 1 62.69291 538.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 484.1339 cm
+q
+BT 1 0 0 1 0 38 Tm .246716 Tw 12 TL /F1 10 Tf 0 0 0 rg (In this lab, you will build a cache model of a set-associative non-blocking caches in C++. Computer architects) Tj T* 0 Tw 2.500945 Tw (often use high-level languages like C++ to ) Tj /F3 10 Tf (model) Tj /F1 10 Tf ( hardware in early research and development of new) Tj T* 0 Tw 2.632629 Tw (designs. Using high-level languages gives architects more freedom and flexibility to quickly iterate with) Tj T* 0 Tw (designs than using hardware description languages or actually making hardware.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 454.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .095612 Tw (You will be given a simulation framework and an example direct-mapped cache implementation. You will build) Tj T* 0 Tw (your new cache models in this framework and evaluate them. You will be graded in two ways:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 448.1339 cm
+Q
+q
+1 0 0 1 62.69291 448.1339 cm
+Q
+q
+1 0 0 1 62.69291 436.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Correctly implementing your cache models \(e.g., the correct number of tag bits\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 430.1339 cm
+Q
+q
+1 0 0 1 62.69291 418.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Understanding the tradeoffs between different designs.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 418.1339 cm
+Q
+q
+1 0 0 1 62.69291 388.1339 cm
+q
+BT 1 0 0 1 0 14 Tm .758386 Tw 12 TL /F2 10 Tf 0 0 0 rg (DO NOT MODIFY THE GIVEN CODE IN ANY WAY. DOING SO WILL LEAD TO AN AUTOMATIC ZERO.) Tj /F1 10 Tf  T* 0 Tw (\(Unless expressly stated below.\) Other rules:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 382.1339 cm
+Q
+q
+1 0 0 1 62.69291 382.1339 cm
+Q
+q
+1 0 0 1 62.69291 370.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Do not use any libraries except the C++ STL.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 364.1339 cm
+Q
+q
+1 0 0 1 62.69291 352.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your code must compile on the lab machines with no changes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 346.1339 cm
+Q
+q
+1 0 0 1 62.69291 298.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 6.423107 Tw (To test your code, we will extract your set_assoc.hh, set_assoc.cc, non_blocking.hh, and) Tj T* 0 Tw 1.526278 Tw (non_blocking.cc files from your submission and building it with the most up-to- date library files. Any) Tj T* 0 Tw .177588 Tw (code you write should go into these files, and make sure that you test against the latest versions of code) Tj T* 0 Tw (on github.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 298.1339 cm
+Q
+q
+1 0 0 1 62.69291 244.1339 cm
+q
+BT 1 0 0 1 0 38 Tm .632325 Tw 12 TL /F2 10 Tf 0 0 0 rg (EXTRA CREDIT) Tj /F1 10 Tf (: This is my first time giving this assignment. I have written this code over the last couple of) Tj T* 0 Tw 1.038826 Tw (days, so it's likely there are bugs. If you're unsure if you've found a bug, post on Piazza. If you find a bug,) Tj T* 0 Tw 1.360746 Tw (please open a pull request on ) Tj 0 0 .501961 rg (Github) Tj 0 0 0 rg (. ) Tj /F2 10 Tf (You will receive 5 points of extra credit for each pull request I) Tj T* 0 Tw (merge) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 214.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.591343 Tw (I will accept pull requests with style, grammar, wording updates, but they must be non-trivial to get the 5) Tj T* 0 Tw (points of extra credit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 181.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 151.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Given Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 121.1339 cm
+q
+BT 1 0 0 1 0 14 Tm 1.019636 Tw 12 TL /F1 10 Tf 0 0 0 rg (You will find the code in the ) Tj /F4 10 Tf 0 0 0 rg (lab4/provided/) Tj /F1 10 Tf 0 0 0 rg ( directory. The code is heavily documented. Please see the) Tj T* 0 Tw (code for all details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 79.13386 cm
+q
+BT 1 0 0 1 0 26 Tm .439011 Tw 12 TL /F1 10 Tf 0 0 0 rg (There is a Makefile included that will build the ) Tj /F4 10 Tf 0 0 0 rg (cache_simulator) Tj /F1 10 Tf 0 0 0 rg (. The cache simulator currently has a very) Tj T* 0 Tw 2.220945 Tw (simple test implemented. In ) Tj /F4 10 Tf 0 0 0 rg (main.cc) Tj /F1 10 Tf 0 0 0 rg (, a processor, a cache, and a memory are instantiated. Then, the) Tj T* 0 Tw (simulation is executed.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+33 0 obj
+<<
+/Length 8029
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 700.1339 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (Processor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.1339 cm
+q
+BT 1 0 0 1 0 26 Tm .385612 Tw 12 TL /F1 10 Tf 0 0 0 rg (The processor drives the simulation. It sends memory requests to the cache by calling ) Tj /F4 10 Tf 0 0 0 rg (receiveRequest) Tj /F1 10 Tf 0 0 0 rg ( on) Tj T* 0 Tw .354676 Tw (the cache object. The processor will continually send requests to the cache until the cache responds that it is) Tj T* 0 Tw (blocked \() Tj /F4 10 Tf 0 0 0 rg (receiveRequest) Tj /F1 10 Tf 0 0 0 rg ( returns ) Tj /F4 10 Tf 0 0 0 rg (false) Tj /F1 10 Tf 0 0 0 rg (\). There requests may be sent multiple in a single ) Tj /F3 10 Tf (tick) Tj /F1 10 Tf ( or cycle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 628.1339 cm
+q
+BT 1 0 0 1 0 14 Tm .350298 Tw 12 TL /F1 10 Tf 0 0 0 rg (The test that is run is initialized in ) Tj /F4 10 Tf 0 0 0 rg (Processor::createRecords\(\)) Tj /F1 10 Tf 0 0 0 rg (. This function populates a queue which) Tj T* 0 Tw (is the "trace" of memory accesses. See ) Tj /F4 10 Tf 0 0 0 rg (processor.cc) Tj /F1 10 Tf 0 0 0 rg ( for details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 598.1339 cm
+q
+BT 1 0 0 1 0 14 Tm .327062 Tw 12 TL /F1 10 Tf 0 0 0 rg (Feel free to add your own tests and/or modify the tests in ) Tj /F4 10 Tf 0 0 0 rg (createRecords) Tj /F1 10 Tf 0 0 0 rg (. When we test your code, we will) Tj T* 0 Tw (use a different implementation of ) Tj /F4 10 Tf 0 0 0 rg (Processor::createRecords) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 571.1339 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (Cache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 517.1339 cm
+q
+BT 1 0 0 1 0 38 Tm .882325 Tw 12 TL /F1 10 Tf 0 0 0 rg (You will be inheriting from the ) Tj /F4 10 Tf 0 0 0 rg (Cache) Tj /F1 10 Tf 0 0 0 rg ( object. See the code in ) Tj /F4 10 Tf 0 0 0 rg (cache.hh) Tj /F1 10 Tf 0 0 0 rg ( for details of the interface you will) Tj T* 0 Tw .493155 Tw (implement. You will need to implement the following functions: - ) Tj /F4 10 Tf 0 0 0 rg (receiveRequest) Tj /F1 10 Tf 0 0 0 rg (: Called by the Processor) Tj T* 0 Tw .674278 Tw (when sending a new request. - ) Tj /F4 10 Tf 0 0 0 rg (receiveMemResponse) Tj /F1 10 Tf 0 0 0 rg (: Called by memory when it has finished reading the) Tj T* 0 Tw (data previously requested by the cache.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (DO NOT MODIFY THIS INTERFACE OR THE IMPLEMENTATION OF THE NON-VIRTUAL FUNCTIONS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 481.1339 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (There are two functions that are implemented in the base ) Tj /F4 10 Tf 0 0 0 rg (Cache) Tj /F1 10 Tf 0 0 0 rg ( class that you will need to use.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 475.1339 cm
+Q
+q
+1 0 0 1 62.69291 475.1339 cm
+Q
+q
+1 0 0 1 62.69291 364.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 84 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F4 10 Tf 0 0 0 rg (sendResponse) Tj /F2 10 Tf 0 0 0 rg (: Call this function when you want to send a response to the processor. It takes) Tj T* (two arguments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 74 Tm  T* ET
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm 2.050298 Tw 12 TL /F4 10 Tf 0 0 0 rg (int) Tj ( ) Tj (request_id) Tj /F1 10 Tf 0 0 0 rg (: When the processor sends a request it includes a request ID. This is) Tj T* 0 Tw .652136 Tw (needed for the processor to track which request it is receiving a response for. You must save) Tj T* 0 Tw 3.140278 Tw (this request ID from when the processor sent the request and use the ) Tj /F3 10 Tf (same) Tj /F1 10 Tf ( ID when) Tj T* 0 Tw (responding.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.394278 Tw 12 TL /F4 10 Tf 0 0 0 rg (const) Tj ( ) Tj (uint8_t*) Tj ( ) Tj (data) Tj /F1 10 Tf 0 0 0 rg (: This is the data you are returning to the processor on loads. On) Tj T* 0 Tw (stores, the data must be ) Tj /F4 10 Tf 0 0 0 rg (nullptr) Tj /F1 10 Tf 0 0 0 rg (. The processor will copy the data out of this pointer.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 358.1339 cm
+Q
+q
+1 0 0 1 62.69291 211.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 120 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F4 10 Tf 0 0 0 rg (sendMemRequest) Tj /F2 10 Tf 0 0 0 rg (: Send a request to memory to either read or write an address. You will call this) Tj T* (when writing back data from the cache or to fetch data on a miss. It takes four arguments:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 110 Tm  T* ET
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 102 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (uint64_t) Tj ( ) Tj (address) Tj /F1 10 Tf 0 0 0 rg (: The address that you want to read or write.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 84 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (int) Tj ( ) Tj (size) Tj /F1 10 Tf 0 0 0 rg (: The size of the request \(this should always be the memory line size\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm -0.086388 Tw 12 TL /F4 10 Tf 0 0 0 rg (const) Tj ( ) Tj (uint8_t*) Tj ( ) Tj (data) Tj /F1 10 Tf 0 0 0 rg (: If writing back this pointer should hold the data to write. The memory) Tj T* 0 Tw (will copy the data from this pointer.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm -0.05613 Tw 12 TL /F4 10 Tf 0 0 0 rg (int) Tj ( ) Tj (request_id) Tj /F1 10 Tf 0 0 0 rg (: Like when the processor sends a request, when the cache sends a request) Tj T* 0 Tw 1.073565 Tw (to memory it needs a way to know which request it is getting a response for. Thus, you can) Tj T* 0 Tw .249552 Tw (choose any ) Tj /F4 10 Tf 0 0 0 rg (request_id) Tj /F1 10 Tf 0 0 0 rg ( you would like when sending the request to memory. When memory) Tj T* 0 Tw (responds to the request, it will use that ID. I suggest using the MSHR table index.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 211.1339 cm
+Q
+q
+1 0 0 1 62.69291 184.1339 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (Memory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 142.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.783775 Tw (Memory receives requests from the cache. After some delay, it will respond to the request. The delay is) Tj T* 0 Tw .902209 Tw (guaranteed to be more than 1 tick. This object also has an interface for you to determine the line size. The) Tj T* 0 Tw (memory line size is used as the cache line size.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 115.1339 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (TickedObject) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 97.13386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This object implements the discrete event simulation. Feel free to ignore it :\).) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+34 0 obj
+<<
+/Length 6179
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 700.1339 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (DirectMappedCache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .464278 Tw (This is an example cache implementation. Feel free to base you implementation of the set-associative cache) Tj T* 0 Tw 1.250232 Tw (on the direct mapped cache that is included. You can use any code from the class in your set-associative) Tj T* 0 Tw (cache.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 631.1339 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (TagArray and SRAMArray) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 613.1339 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (DO NOT MODIFY THIS CODE IN ANY WAY) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 583.1339 cm
+q
+BT 1 0 0 1 0 14 Tm 4.046012 Tw 12 TL /F1 10 Tf 0 0 0 rg (You are required to use the ) Tj /F4 10 Tf 0 0 0 rg (TagArray) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F4 10 Tf 0 0 0 rg (SRAMArray) Tj /F1 10 Tf 0 0 0 rg ( to hold tags/state and data, respectively.) Tj T* 0 Tw (Constraining yourself to this interface will help ensure your cache controller design is realistic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 529.1339 cm
+q
+BT 1 0 0 1 0 38 Tm .954961 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F4 10 Tf 0 0 0 rg (TagArray) Tj /F1 10 Tf 0 0 0 rg ( holds both tag and the state for each line. There is only room for a single tag and state for) Tj T* 0 Tw .822598 Tw (each line, so you will have to consider how to implement a set-associative cache. The ) Tj /F4 10 Tf 0 0 0 rg (TagArray) Tj /F1 10 Tf 0 0 0 rg ( takes the) Tj T* 0 Tw .040199 Tw (number of tag bits and data bits as parameters. We will check to make sure you use the correct number of tag) Tj T* 0 Tw (and data bits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 487.1339 cm
+q
+BT 1 0 0 1 0 26 Tm 1.354956 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F4 10 Tf 0 0 0 rg (SRAMArray) Tj /F1 10 Tf 0 0 0 rg ( is a simple data storage array that only takes the size of the data \(cache block\) and the) Tj T* 0 Tw 2.173386 Tw (number of elements to store as parameters. You will instantiate multiple tag and SRAM arrays for your) Tj T* 0 Tw (set-associative cache implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 457.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Implementing a Set-Associative Cache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 403.1339 cm
+q
+BT 1 0 0 1 0 38 Tm 2.672761 Tw 12 TL /F1 10 Tf 0 0 0 rg (You are given a file ) Tj /F4 10 Tf 0 0 0 rg (set_assoc.cc) Tj /F1 10 Tf 0 0 0 rg ( which has empty functions for each function you are required to) Tj T* 0 Tw 3.299011 Tw (implement. You will be modifying and turning in this file and ) Tj /F4 10 Tf 0 0 0 rg (set_assoc.hh) Tj /F1 10 Tf 0 0 0 rg (. Feel free to add new) Tj T* 0 Tw 5.917417 Tw (private/protected functions to the ) Tj /F4 10 Tf 0 0 0 rg (SetAssociativeCache) Tj /F1 10 Tf 0 0 0 rg (, but ) Tj /F2 10 Tf (DO NOT MODIFY THE PUBLIC) Tj T* 0 Tw (INTERFACE) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 361.1339 cm
+q
+BT 1 0 0 1 0 26 Tm .019584 Tw 12 TL /F1 10 Tf 0 0 0 rg (You implementation of the set-associative cache should behave ) Tj /F3 10 Tf (exactly the same) Tj /F1 10 Tf ( as the direct-mapped cache) Tj T* 0 Tw .921272 Tw (when there is only one way. It should also be able to be any associative up to fully-associative \(unless you) Tj T* 0 Tw (explain why this is not possible as described below\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 307.1339 cm
+q
+BT 1 0 0 1 0 38 Tm .578155 Tw 12 TL /F1 10 Tf 0 0 0 rg (You may choose to implement any replacement policy. ) Tj /F2 10 Tf (However, if your replacement policy requires any) Tj T* 0 Tw -0.111174 Tw (state, you must store this state in the tag array!) Tj /F1 10 Tf ( Note: The tag-array state is limited to 32 bits per line. If this) Tj T* 0 Tw .67201 Tw (constrains your associativity, be sure to include assertions in your code and explain this in the README file) Tj T* 0 Tw (\(see below\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 289.1339 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You ) Tj /F2 10 Tf (must) Tj /F1 10 Tf ( use the given TagArray and DataArray objects to store your tags and data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 259.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .816511 Tw (It may help testing your implementation to think about the following questions: \(You will be answering these) Tj T* 0 Tw (questions in lab 5.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 253.1339 cm
+Q
+q
+1 0 0 1 62.69291 253.1339 cm
+Q
+q
+1 0 0 1 62.69291 229.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.047014 Tw (How does increasing the set-associativity from direct-mapped to 8-way set-associative affect the hit) Tj T* 0 Tw (ratio?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 223.1339 cm
+Q
+q
+1 0 0 1 62.69291 199.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.445834 Tw (How does increasing the set-associativity from direct-mapped to 8-way set-associative affect the) Tj T* 0 Tw (performance of the system?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 199.1339 cm
+Q
+q
+1 0 0 1 62.69291 169.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Implementing a Non-Blocking Cache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 127.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.700321 Tw (Your non-blocking cache should inherit from your set-associative implementation as it must be both) Tj T* 0 Tw 2.361727 Tw (non-blocking and set-associative. Much of the code will be shared between the set-associative and the) Tj T* 0 Tw (non-blocking cache.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 97.13386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .41887 Tw (We discussed non-blocking caches in class. To implement a non-blocking cache, you must track outstanding) Tj T* 0 Tw 1.163187 Tw (requests from the cache. This is usually done with a table of miss status handling registers \(MSHRs\). You) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+35 0 obj
+<<
+/Length 8379
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .017893 Tw (may choose any software implementation of this you would like. However, you will be expected to explain how) Tj T* 0 Tw (your software implementation would translate to hardware in interactive grading.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 661.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .816511 Tw (It may help testing your implementation to think about the following questions: \(You will be answering these) Tj T* 0 Tw (questions in lab 5.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 655.1339 cm
+Q
+q
+1 0 0 1 62.69291 655.1339 cm
+Q
+q
+1 0 0 1 62.69291 643.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How does increasing the number of MSHRs affect the performance of the system?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 643.1339 cm
+Q
+q
+1 0 0 1 62.69291 610.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Testing and Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 568.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.454951 Tw (You should expect that we will test the following things: - Changing the size, associativity, and number of) Tj T* 0 Tw .337588 Tw (MSHRs of the cache. - Changing the line size of the memory. - Sending requests of any power-of-two size to) Tj T* 0 Tw (the cache from the processor that are less than or equal to the line size. - Changing the address width.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 526.1339 cm
+q
+BT 1 0 0 1 0 26 Tm 1.947848 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note, we may use different implementations of ) Tj /F4 10 Tf 0 0 0 rg (TagArray) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (SRAMArray) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Memory) Tj /F1 10 Tf 0 0 0 rg (, and ) Tj /F4 10 Tf 0 0 0 rg (Processor) Tj /F1 10 Tf 0 0 0 rg ( when) Tj T* 0 Tw -0.015324 Tw (testing. The only thing you can rely on is the interfaces in the header files. The underlying implementation may) Tj T* 0 Tw (change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 508.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Think about the following questions for interactive grading:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 502.1339 cm
+Q
+q
+1 0 0 1 62.69291 502.1339 cm
+Q
+q
+1 0 0 1 62.69291 490.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How does my software implementation compare to a real hardware implementation?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 484.1339 cm
+Q
+q
+1 0 0 1 62.69291 460.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .396716 Tw (What parts of the hardware does your code model explicitly and which parts of the hardware design are) Tj T* 0 Tw (not modeled?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 460.1339 cm
+Q
+q
+1 0 0 1 62.69291 454.1339 cm
+Q
+q
+1 0 0 1 62.69291 262.1339 cm
+1 1 1 rg
+n 0 192 486.6142 -18 re f*
+.878431 .878431 .878431 rg
+n 0 174 486.6142 -42 re f*
+1 1 1 rg
+n 0 132 486.6142 -54 re f*
+.878431 .878431 .878431 rg
+n 0 78 486.6142 -78 re f*
+.960784 .960784 .862745 rg
+n 0 192 486.6142 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 177 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 135.2648 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 54.01741 0 Td (Name) Tj T* -54.01741 0 Td ET
+Q
+Q
+q
+1 0 0 1 153.2648 177 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 135.2648 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 8.447408 0 Td (Percentage of Lab Grade) Tj T* -8.447408 0 Td ET
+Q
+Q
+q
+1 0 0 1 300.5296 177 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 180.0845 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 62.53727 0 Td (Description) Tj T* -62.53727 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (set_assoc.cc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 153.2648 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (25%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.5296 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Implementation of the set-associative) Tj T* (cache. This includes the correct number) Tj T* (of tag/index bits, etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (non_blocking.cc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 153.2648 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (25%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.5296 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Implementation of the non-blocking) Tj T* (cache. This includes the correct) Tj T* (implementation of MSHRs and per-line) Tj T* (state.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Interactive Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 153.2648 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (50%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.5296 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Your answers to the questions will be) Tj T* (evaluated during interactive grading.) Tj T* (25% of your overall grade will come) Tj T* (from the answers to these questions) Tj T* (and the other 25% from your answers to) Tj T* (the interactive grading questions.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 174 m 486.6142 174 l S
+n 0 132 m 486.6142 132 l S
+n 0 78 m 486.6142 78 l S
+n 147.2648 0 m 147.2648 192 l S
+n 294.5296 0 m 294.5296 192 l S
+n 0 192 m 486.6142 192 l S
+n 0 0 m 486.6142 0 l S
+n 0 0 m 0 192 l S
+n 486.6142 0 m 486.6142 192 l S
+Q
+Q
+q
+1 0 0 1 62.69291 262.1339 cm
+Q
+q
+1 0 0 1 62.69291 229.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 199.1339 cm
+q
+BT 1 0 0 1 0 14 Tm .084951 Tw 12 TL /F2 10 Tf 0 0 0 rg (Warning) Tj /F1 10 Tf (: read the submission instructions carefully. Failure to adhere to the instructions will result in a loss of) Tj T* 0 Tw (points.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 193.1339 cm
+Q
+q
+1 0 0 1 62.69291 193.1339 cm
+Q
+q
+1 0 0 1 62.69291 79.13386 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 87 cm
+q
+BT 1 0 0 1 0 14 Tm 2.061417 Tw 12 TL /F1 10 Tf 0 0 0 rg (Upload to Canvas the zip/tar/tgz of your ) Tj /F4 10 Tf 0 0 0 rg (set_assoc.cc) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (set_assoc.hh) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (non_blocking.cc) Tj /F1 10 Tf 0 0 0 rg ( ) Tj /F3 10 Tf (and) Tj /F1 10 Tf  T* 0 Tw /F4 10 Tf 0 0 0 rg (non_blocking.hh) Tj /F1 10 Tf 0 0 0 rg ( file along with a README file that contains:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The names of you and your partner.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If there are any constraints on the associativity of your cache, explain what they are and why.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Any difficulties you had.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anything that doesn\222t work correctly and why.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anything you feel that the graders should know.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+36 0 obj
+<<
+/Length 3661
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm -0.061055 Tw 12 TL /F2 10 Tf 0 0 0 rg (Copy and paste the README into the comment box when you are submitting your assignment) Tj /F1 10 Tf (, as) Tj T* 0 Tw (well.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 673.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Only one partner should submit the assignment.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 667.1339 cm
+Q
+q
+1 0 0 1 62.69291 655.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You may submit your assignment as many times as you want.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 655.1339 cm
+Q
+q
+1 0 0 1 62.69291 622.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Hints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 610.1339 cm
+Q
+q
+1 0 0 1 62.69291 610.1339 cm
+Q
+q
+1 0 0 1 62.69291 586.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .500746 Tw (This is a new assignment. There may be bugs. I will update the git repository if/when bugs are found. It) Tj T* 0 Tw (will be best for you to clone the repo so you can pull new changes as they happen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 580.1339 cm
+Q
+q
+1 0 0 1 62.69291 556.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.636278 Tw (We discussed the state machines for the caches in class. Use these ideas when implementing your) Tj T* 0 Tw (cache models.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 550.1339 cm
+Q
+q
+1 0 0 1 62.69291 526.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.022945 Tw 12 TL /F1 10 Tf 0 0 0 rg (Use the DPRINT macro in ) Tj /F4 10 Tf 0 0 0 rg (util.hh) Tj /F1 10 Tf 0 0 0 rg ( for debugging. This allows you to insert extra debugging print) Tj T* 0 Tw (statements that are easily turned off \(see the Makefile\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 520.1339 cm
+Q
+q
+1 0 0 1 62.69291 496.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .09801 Tw (Using Git \(or any other version control system\) may prove useful for keeping history in case you need go) Tj T* 0 Tw (back. Make sure you commit at reasonable times with reasonable messages :\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 490.1339 cm
+Q
+q
+1 0 0 1 62.69291 466.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .823209 Tw (If you find a bug, submit a pull request on Github! You'll get 5 points of extra credit on the assignment) Tj T* 0 Tw (per PR that I accept!) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 466.1339 cm
+Q
+ 
+endstream
+endobj
+37 0 obj
+<<
+/Nums [ 0 38 0 R 1 39 0 R 2 40 0 R 3 41 0 R 4 42 0 R ]
+>>
+endobj
+38 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+39 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+40 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+41 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+42 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+xref
+0 43
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000363 00000 n 
+0000000478 00000 n 
+0000000669 00000 n 
+0000000774 00000 n 
+0000000987 00000 n 
+0000001106 00000 n 
+0000001301 00000 n 
+0000001497 00000 n 
+0000001693 00000 n 
+0000001889 00000 n 
+0000001995 00000 n 
+0000002269 00000 n 
+0000002344 00000 n 
+0000002455 00000 n 
+0000002580 00000 n 
+0000002740 00000 n 
+0000002890 00000 n 
+0000003000 00000 n 
+0000003119 00000 n 
+0000003239 00000 n 
+0000003365 00000 n 
+0000003497 00000 n 
+0000003621 00000 n 
+0000003772 00000 n 
+0000003907 00000 n 
+0000004041 00000 n 
+0000004166 00000 n 
+0000004273 00000 n 
+0000004360 00000 n 
+0000011202 00000 n 
+0000019283 00000 n 
+0000025514 00000 n 
+0000033945 00000 n 
+0000037658 00000 n 
+0000037735 00000 n 
+0000037769 00000 n 
+0000037803 00000 n 
+0000037837 00000 n 
+0000037871 00000 n 
+trailer
+<<
+/ID 
+[<0c864234c6b94dbacee415d5acfeee0e><0c864234c6b94dbacee415d5acfeee0e>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 14 0 R
+/Root 13 0 R
+/Size 43
+>>
+startxref
+37905
+%%EOF
