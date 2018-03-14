@@ -12,7 +12,7 @@
 int main(int argc, char *argv[])
 {
 
-    if (argc != 4) {
+    if (argc != 5) {
         std::cout << "Input error!" << std::endl;
         std::cout << "Usage: " << argv[0] << " <trace file> " << "<size bits> ";
         std::cout << "<ways> " << "<mshrs> " << std::endl;
@@ -22,12 +22,12 @@ int main(int argc, char *argv[])
     char* recordFile = argv[1];
     int sizebits = atoi(argv[2]);
     int ways = atoi(argv[3]);
-    //int mshrs = atoi(argv[4]);
+    int mshrs = atoi(argv[4]);
     int block_size = 64;
 
     assert(sizebits > 6 && sizebits <= 22);
     assert(ways <= ((1 << sizebits) / block_size));
-    //assert(mshrs > 0);
+    assert(mshrs > 0);
 
     Processor p(32);
     Memory m(block_size);
@@ -38,8 +38,8 @@ int main(int argc, char *argv[])
     }
     p.setMemory(&m);
     p.setRecords(&records);
-    SetAssociativeCache s(1 << sizebits, m, p, ways);
-    //NonBlockingCache c(1 << sizebits, m, p, ways, mshrs);
+    //SetAssociativeCache s(1 << sizebits, m, p, ways);
+    NonBlockingCache c(1 << sizebits, m, p, ways, mshrs);
     p.scheduleForSimulation();
 
     std::cout << "Running simulation" << std::endl;
